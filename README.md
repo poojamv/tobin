@@ -180,5 +180,11 @@ green color file
 
 git init
 
+git commit -m "des" filename
+
+git push -u origin master
+usrname
+paswd
+
 
 
