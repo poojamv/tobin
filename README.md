@@ -14,7 +14,7 @@ done
 
 
 ,////////////////////////
-echo "sum of $n number is $sum" While
+"sum of $n number is $sum" While
 echo "sum of n numbers using while loop"
 read n
 i=1
